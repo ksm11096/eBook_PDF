@@ -1,0 +1,6 @@
+{
+  "name": "MONOGRAPH - 포토 앨범 스튜디오",
+  "description": "여러 장의 사진을 한 쪽에 한 장씩 감상하고 제목과 설명을 기록해 PDF 앨범으로 저장하는 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
